@@ -1,2 +1,2 @@
 connectionStrings:
-  securityConnection: Data Source=RITUALSKY\\SQLEXPRESS;Integrated Security=true;database=BD_SECURITY;TrustServerCertificate=true;
+  securityConnection: Data Source=local-mssql;Integrated Security=true;database=BD_SECURITY;TrustServerCertificate=true;
