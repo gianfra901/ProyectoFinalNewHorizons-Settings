@@ -1,2 +1,2 @@
 connectionStrings:
-  securityConnection: Data Source=local-mssql;Integrated Security=true;database=BD_SECURITY;TrustServerCertificate=true;
+  securityConnection: Data Source=local-mssql; Initial Catalog=BD_SECURITY; user id=sa; password=TrabajoFinalSQL123#
