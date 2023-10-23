@@ -1,3 +1,8 @@
 connectionStrings:
   securityConnection: Data Source=local-mssql; Initial Catalog=BD_SECURITY; user id=sa; password=TrabajoFinalSQL123#;TrustServerCertificate=true;
   invoiceConnection: Server=local-postgres;Database=bd_invoice; Port=5432; User Id=postgres; Password=TrabajoFinalSQL123#
+jwtSettings:
+  issuer: issuer
+  audience: audience
+  lifetime: 5
+  secretKey: 0gb5RZySwzZrK0tq0H4ymWJXEqaO3fEG
