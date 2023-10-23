@@ -1,5 +1,5 @@
 jwtSettings:
   issuer: issuer
   audience: audience
-  lifetime: 5
+  lifetime: 18000
   secretKey: 0gb5RZySwzZrK0tq0H4ymWJXEqaO3fEG
